@@ -1,0 +1,97 @@
+{
+    "tracks": {
+        "href": "https://api.spotify.com/v1/search?query=year%3A2021&type=track&offset=1&limit=1",
+        "items": [
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7gSocE8DgBdhGoYCw3Tlug"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7gSocE8DgBdhGoYCw3Tlug",
+                            "id": "7gSocE8DgBdhGoYCw3Tlug",
+                            "name": "Banc Champagne",
+                            "type": "artist",
+                            "uri": "spotify:artist:7gSocE8DgBdhGoYCw3Tlug"
+                        }
+                    ],
+                    "available_markets": [
+                        "AD",
+                        "AE",
+                        "ZW"
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/59Gi0M71OqZWV0fJ01Z5QM"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/59Gi0M71OqZWV0fJ01Z5QM",
+                    "id": "59Gi0M71OqZWV0fJ01Z5QM",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273529b1acff24fbc63491d6ca1",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02529b1acff24fbc63491d6ca1",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851529b1acff24fbc63491d6ca1",
+                            "width": 64
+                        }
+                    ],
+                    "name": "New Year 2021",
+                    "release_date": "2020-12-31",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:59Gi0M71OqZWV0fJ01Z5QM"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7gSocE8DgBdhGoYCw3Tlug"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7gSocE8DgBdhGoYCw3Tlug",
+                        "id": "7gSocE8DgBdhGoYCw3Tlug",
+                        "name": "Banc Champagne",
+                        "type": "artist",
+                        "uri": "spotify:artist:7gSocE8DgBdhGoYCw3Tlug"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AE",
+                    "ZW"
+                ],
+                "disc_number": 1,
+                "duration_ms": 144000,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZFYW2184959"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0QdTYExlsPJxj1lkPVwNMg"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0QdTYExlsPJxj1lkPVwNMg",
+                "id": "0QdTYExlsPJxj1lkPVwNMg",
+                "is_local": false,
+                "name": "New Year 2021",
+                "popularity": 21,
+                "preview_url": "https://p.scdn.co/mp3-preview/8093703a30da64516041e8c312521ce3af70acbf?cid=96f68ebaedaf4e168b1302decef5fcf9",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:0QdTYExlsPJxj1lkPVwNMg"
+            }
+        ],
+        "limit": 1,
+        "next": "https://api.spotify.com/v1/search?query=year%3A2021&type=track&offset=2&limit=1",
+        "offset": 1,
+        "previous": "https://api.spotify.com/v1/search?query=year%3A2021&type=track&offset=0&limit=1",
+        "total": 252849
+    }
+}
