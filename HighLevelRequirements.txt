@@ -42,7 +42,7 @@ Graph Topics
 		○ Click actions to display the top 5
 	
 Hypothesis
-	- Relationship of avg number of listeners by country gdp??????????
+	- Relationship of avg number of listeners genre by country gdp??????????
 		○ Have fun whoever gets this one…
 		○ Let's shoot for statistical analysis on this one!
 		○ Again have fun and good luck…
