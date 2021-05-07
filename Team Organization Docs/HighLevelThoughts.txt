@@ -1,0 +1,61 @@
+High level requirements
+
+Graph Topics
+	- Top 10 countries by listener average 
+		○ Avg = sum(listeners for the topArtist for the country)/number of records for country
+		○ Recommended visualization: Bar
+		○ Use dataset 
+			§ countriesTopArtist.csv
+				□ Country
+				□ listeners
+
+	- Top 5 genres by the top 10 countries by sum of listeners
+		○ Sum(listeners)
+		○ Recommended visualization: Stacked Bar
+		○ Use datasets
+			§ countriesTopArtist.csv 
+				□ Country
+				□ listeners
+			§ Artists.csv
+				□ genre
+
+	- Top 20 artists by count of countries
+		○ Recommended visualization: line graph (but sort by counts)
+		○ Use datasets
+			§ countriesTopArtist.csv 
+				□ Artists
+				□ Sum(listeners) 
+				□ country
+
+
+	- Top artist and the avg listeners by country (can we do another relationship???)
+		○ Find the top artist by the avg listeners and use only that one for this graph
+		○ Recommended visualization: Scatterplot
+		○ Use datasets
+			§ countriesTopArtist.csv 
+				□  Avg = sum(listeners for the topArtist for the country)/number of records for country
+
+	- Top 5 artist per country (geomap with click action)
+		○ Maybe limit the number of countries??????
+		○ Recommended visualization: Geomap
+		○ Click actions to display the top 5
+	
+Hypothesis
+	- Relationship of avg number of listeners genre by country gdp??????????
+		○ Have fun whoever gets this one…
+		○ Let's shoot for statistical analysis on this one!
+		○ Again have fun and good luck…
+
+Limitations:
+
+Lessons learned:
+
+
+-------------DONE
+
+	- 5 top artists globally by sum of playcounts 
+		○ Display avg which = playcounts/listeners
+		○ Recommended visualization: pie chart
+		○ Use datasets
+			§ Artist.csv 
+				□ Playcounts
