@@ -36,7 +36,7 @@ __Questions:__
 * Q1 Who are some of the popular artists across different countries?
 * Q2 What are some of the popular genres?
 * Q3 Is there a similarity to the artist across different countries?
-* Q4 Hypothesis - Due to the popularity of giant streaming sites like Spotify, Pandora and Apple, if a coutnry's GDP is low then LastFM listenership is higher
+* Q4 Hypothesis - Due to the popularity of giant streaming sites like Spotify, Pandora and Apple, we assume that LastFM isn't as popular as those.  That said, if a country's GDP is low then LastFM listenership is higher.
 
 
 
