@@ -10,6 +10,12 @@
 __Repo Owner:__ Steve
 
 
+__Repo Directory__
+
+* Input folder - contains csvs for the analysis
+* LastFM folder - contains jupyter notes for the overall project and a sub folder containing the individual contributions
+* Ouput folder - contains pngs of the graphs used for analysis
+* Team Organization Documents folder - used for the team for documentating our thoughts and process
 
 __Branches (Owner: Name)__
 
