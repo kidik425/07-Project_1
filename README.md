@@ -68,7 +68,7 @@ The notebook with "LastFM" is used for the overall project deliverables.
 
 __Data ETL Approach:__
 
-Api calls against the LastFM data agents. Started by getting a list of countries from an ISO1866 pull (LastFM supposedly uses these names as in the data collections).  Once the countries are stored in csv, we then loop through each of those countries pulling the top 50 artists played on LastFM.  This information was also stored as a csv.
+Api calls against the LastFM data agents. Started by getting a list of countries from a python library called ISO3166 (LastFM supposedly uses these names as in the data collections).  Once the countries are stored in csv, we then loop through each of those countries pulling the top 50 artists played on LastFM.  This information was also stored as a csv.
 
 Some countries were missed, and we did a manual clean up of those names by looking for countries that had 0 counts of artists.  In the country.csv we corrected some in order to get that information from LastFM.
 
